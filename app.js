@@ -35,7 +35,6 @@ function limpiarCaja(){
 
 function numeroAleatorio() {
     let numeroGenerado = Math.floor(Math.random()*numeroMaximo)+1; // genera el numero aleatorio y lo asigna a la variable numeroGenerado
-    console.log(numeroGenerado);
     console.log(listaNumerosSorteados);
 
 
